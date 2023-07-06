@@ -23,6 +23,10 @@
     `python3 main.py`
 
 - After this you will be prompted twice
-        1. Give the file_id to index embeddings and data from google drive file(txt file) (not required)
-        2. Give promopt to search in the database
+        
+  1. Give the file_id to index embeddings and data from google drive file(txt file) (not required)
+
+  2. Give promopt to search in the database
+
+
 
